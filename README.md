@@ -24,8 +24,8 @@ npm install axios fs crypto path
 ```bash
 nano .env
 ```
-# RUBI_USERNAME=YOURUSERNAME
-# RUBI_PASSWORD=YOURPASSWORD
+## RUBI_USERNAME=YOURUSERNAME
+## RUBI_PASSWORD=YOURPASSWORD
 
 5. Run Bot
 
